@@ -1,5 +1,6 @@
 # Generation results
 results/
+result.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
